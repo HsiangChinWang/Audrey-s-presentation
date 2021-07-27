@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_66BGhdOkxbp_course_id" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+							  http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd
+							  http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 4th Edition</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Audrey's_Vorstellung_ORG">
+    <organization identifier="Audrey's_Vorstellung_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Audrey's Vorstellung</title>
+      <item identifier="_0~12_SCO" identifierref="__66BGhdOkxbp_course_id_RES" isvisible="true">
+        <title>Audrey's Vorstellung</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__66BGhdOkxbp_course_id_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/61uoxj2J0al_80_DX1440_DY1440_CX720_CY405.png" />
+      <file href="mobile/6jAicDPlMOQ_80_DX1440_DY1440_CX720_CY405.png" />
+      <file href="story_content/5r7e4KOcAGZ_44100_48_0.mp3" />
+      <file href="story_content/6Y1YKyUZuB4_44100_48_0.mp3" />
+      <file href="story_content/6osyKy5hdqQ_44100_48_0.mp3" />
+      <file href="mobile/5q4Vsmp6gJ5_80_DX1440_DY1440_CX720_CY405.png" />
+      <file href="story_content/6NxblACxOIp_44100_48_0.mp3" />
+      <file href="story_content/6WxXwtRoM3f_44100_48_0.mp3" />
+      <file href="story_content/6lRkVFAPSYE_44100_48_0.mp3" />
+      <file href="mobile/6mle6DLLlfr_80_DX1440_DY1440_CX720_CY405.png" />
+      <file href="story_content/6iKCGf99svJ_44100_48_0.mp3" />
+      <file href="story_content/6kRtPUi0Uxp_44100_48_0.mp3" />
+      <file href="story_content/6eTOHCMMfav_44100_48_0.mp3" />
+      <file href="mobile/5uKfBAsHEtV_80_DX1440_DY1440_CX720_CY405.png" />
+      <file href="story_content/67C2cNhyfSS_44100_48_0.mp3" />
+      <file href="story_content/5y9SifkT0LF_44100_48_0.mp3" />
+      <file href="story_content/6d0uP8tIBlz_44100_48_0.mp3" />
+      <file href="mobile/5YoAoMAXkSe_80_DX1440_DY1440_CX720_CY405.png" />
+      <file href="story_content/6FMSUupZOoT_44100_48_0.mp3" />
+      <file href="story_content/6TPMidOVlPd_44100_48_0.mp3" />
+      <file href="story_content/5nllq1xOaWV_44100_48_0.mp3" />
+      <file href="mobile/632XxCEw4xP_80_DX1440_DY1440_CX720_CY405.png" />
+      <file href="story_content/6EEsXN9uZ68_44100_48_0.mp3" />
+      <file href="story_content/6Ve87jSlXOG_44100_48_0.mp3" />
+      <file href="story_content/6ZZsLCYefTL_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5p8u6e1WWTZ.js" />
+      <file href="html5/data/js/5yLd3E4t4jk.js" />
+      <file href="html5/data/js/63u5A7Hj364.js" />
+      <file href="html5/data/js/6arGUnOZYe9.js" />
+      <file href="html5/data/js/6dGEjrTN1VE.js" />
+      <file href="html5/data/js/6h5hpNshzoi.js" />
+      <file href="html5/data/js/6o5CB2sHwyT.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
